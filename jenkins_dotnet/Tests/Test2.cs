@@ -7,5 +7,6 @@ public class AnotherTestJenkins
     public static void Test2() 
     {
         Assert.True(true);
+        Assert.True(true);
     }
 }
